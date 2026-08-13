@@ -1,7 +1,6 @@
 body { background-color: #FF5C68; color: #E63743; font-family: monospace; }
 h1 { color: #FF1725; text-align: center; font-size: 32px; }
 h2 { color: #00e5ff; border-bottom: 1px solid #00ff00; }
-p { color: black; font-size: 50px; }
 .tecnologia { color: #000000; text-transform: uppercase; }
 a { color: #B0000A; text-decoration: none; }
 a:hover { color: #00ff00; text-decoration: underline; }
